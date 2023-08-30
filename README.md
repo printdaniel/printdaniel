@@ -19,4 +19,4 @@ I also work with PySpark, Django Rest Framework, and Django, and I enjoy using t
 ## Contact
 
 ** Gmail** : dwsuarez98@gmail.com
-** Linkedin**: [Daniel Suárez] (https://www.linkedin.com/in/daniel-su%C3%A1rez-developer/
+** Linkedin**: [Daniel Suárez] https://www.linkedin.com/in/daniel-su%C3%A1rez-developer/
