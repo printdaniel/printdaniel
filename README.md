@@ -8,6 +8,7 @@ I also work with PySpark, Django Rest Framework, and Django, and I enjoy using t
 
 # Skills
 * Python Developer.
+* Docker
 * Data Analysitics.
 * Django Framework.
 * Django Rest Framework.
