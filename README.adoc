@@ -1,0 +1,102 @@
+// CREDITS: https://github.com/asciidoctor/docbookrx/blob/master/README.adoc
+// User Variables
+:name: Daniel Suárez
+:handle: danielussen
+:fullname: {name} Morgan
+:twitter-profile: https://twitter.com/{handle}
+
+// Badges & Tiles
+:pulumi-community-url: https://www.pulumi.com/community/
+:uorframework-gh-url: https://emporous.io
+:containercraft-gh-url: https://github.com/ContainerCraft
+:pulumiverse-blog-url: https://www.pulumi.com/blog/2022-03-30-introducing-pulumiverse/
+:kubevirt-community-url: https://kubevirt.io/community/
+:linkedin-url: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+:profile-stats-tile-url: https://github-readme-stats.vercel.app/api?username=usrbinkat&count_private=true&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl&cache_seconds=86400
+
+// Document Settings
+:idprefix:
+:idseparator: -
+:icons: font
+//:toc:
+//:toclevels: 1
+
+// Begin Document
+= {fullname}
+
+++++
+<div id="badges">
+  <a href="https://www.linkedin.com/in/usrbinkat/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCBlfOB_ug62b0eloQaLSBOg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/usrbinkat">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://linktr.ee/usrbinkat">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt=Linktr.ee"/>
+  </a>
+</div>
+++++
+
+== About Me +
+
+```
+usrbinkat@honeypot:/# /usr/bin/kat --help
+   ____                 _     _       _         _
+  / __ \ _   _ ___ _ __| |__ (_)_ __ | | ____ _| |_
+ / / _` | | | / __| '__| '_ \| | '_ \| |/ / _` | __|
+| | (_| | |_| \__ \ |  | |_) | | | | |   < (_| | |_
+ \ \__,_|\__,_|___/_|  |_.__/|_|_| |_|_|\_\__,_|\__|
+  \____/
+
+```
+
+Hello! I am {fullname}, Senior Developer Advocate Community Engineer serving the link:{pulumi-community-url}[Pulumi Community].
+
+Welcome to my GitHub! I am an IT Support and Consulting Field Engineer veteran, experienced in Linux, OpenStack, and Kubernetes at scale. I am on a mission to help others write their own open source success story. +
+
+Drawing on experiences at Dell > Canonical > Red Hat > Kong > Azure > & Pulumi, I have witnessed some of the most common pain points in Cloud Native platform development and operation, as well as talent pipeline challenges associated with learning and teaching Cloud Native computing. +
+
+My origin story begins in the mid west, early 2000's, when I stumbled on a Red Hat Linux 5.0 book in the STEM section of my local library. If you are interested, ask me about my journey any time! +
+
+Today I enjoy living in the beautiful Pacific Northwest, enabling the growth of my peers in the Tech industry, and working on my personal project #100DaysOfHomelab for the ContainerCraft project. +
+
+
+== Core Roles +
+* {pulumi-community-url}[Pulumi Developer Relations - Community Engineer]
+
+== Projects +
+* {uorframework-gh-url}[Emporous.io]
+* {containercraft-gh-url}[ContainerCraft.io]
+
+== Community +
+* {pulumiverse-blog-url}[Pulumiverse]
+* {kubevirt-community-url}[KubeVirt Community]
+
+== Favorite Technologies +
+:siderolabs-gh-url: https://www.siderolabs.com/
+:kubevirt-site-url: https://kubevirt.io
+:rook-ceph-url: https://rook.github.io/docs/rook/latest/
+:cloudctl-gh-url: https://github.com/CloudCtl/cloudctl
+:kuma-site-url: https://kuma.io/
+:microk8s-site-url: https://microk8s.io/
+:pulumi-site-url: https://pulumi.com
+:clusterapi-url: https://cluster-api.sigs.k8s.io/
+
+* *VIM All The Things!!*
+* link:{kuma-site-url}[Kuma Mesh]
+* link:{uorframework-gh-url}[Emporous.io]
+* link:{rook-ceph-url}[Rook CEPH]
+* link:{clusterapi-url}[Cluster API]
+* link:{kubevirt-site-url}[KubeVirt]
+* link:{cloudctl-gh-url}[CloudCtl Pod]
+* link:{siderolabs-gh-url}[Sidero Labs - Talos] / link:{microk8s-site-url}[Microk8s]
+* link:{pulumi-site-url}[Pulumi]
+* Python
+* Golang
+* Typescript
+
+image:{profile-stats-tile-url}[] +
