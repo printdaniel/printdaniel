@@ -2,7 +2,7 @@
 // User Variables
 :name: Daniel Suárez
 :handle: danielussen
-:fullname: {name} Daniel
+:fullname: {name} 
 :twitter-profile: https://twitter.com/{handle}
 
 // Badges & Tiles
