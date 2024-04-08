@@ -26,18 +26,16 @@
 
 ++++
 <div id="badges">
-  <a href="https://www.linkedin.com/in/usrbinkat/">
+  <a href="https://www.linkedin.com/in/daniel-su%C3%A1rez-python-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCBlfOB_ug62b0eloQaLSBOg">
+  <a href="https://www.youtube.com/channel/UCaR4Lk0ZYPtws-U5O-Ockpw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/usrbinkat">
+  <a href="https://twitter.com/danielussen">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://linktr.ee/usrbinkat">
-    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt=Linktr.ee"/>
-  </a>
+
 </div>
 ++++
 
