@@ -12,7 +12,7 @@
 :pulumiverse-blog-url: https://www.pulumi.com/blog/2022-03-30-introducing-pulumiverse/
 :kubevirt-community-url: https://kubevirt.io/community/
 :linkedin-url: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
+:profile-stats-tile-url: https://github-readme-stats.vercel.app/api?username=printdaniel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 // Document Settings
 :idprefix:
@@ -90,5 +90,3 @@ Daniel
 * Bash
 
 image:{profile-stats-tile-url}[] +
-
-![printdaniel's Stats](https://github-readme-stats.vercel.app/api?username=printdaniel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
