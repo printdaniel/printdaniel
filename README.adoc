@@ -12,7 +12,7 @@
 :pulumiverse-blog-url: https://www.pulumi.com/blog/2022-03-30-introducing-pulumiverse/
 :kubevirt-community-url: https://kubevirt.io/community/
 :linkedin-url: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-:profile-stats-tile-url: https://github-readme-stats.vercel.app/api?username=usrbinkat&count_private=true&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl&cache_seconds=86400
+
 
 // Document Settings
 :idprefix:
@@ -69,11 +69,11 @@ Daniel
 == Favorite Technologies +
 :docker-url: https://www.docker.com/ 
 :selenium-site-url: https://www.selenium.dev/
-:rook-ceph-url: https://rook.github.io/docs/rook/latest/
-:cloudctl-gh-url: https://github.com/CloudCtl/cloudctl
+:apache-airflow-url: https://airflow.apache.org/
+:flask-url: https://flask.palletsprojects.com/en/3.0.x/
 :Django-site-url: https://www.djangoproject.com/ 
-:microk8s-site-url: https://microk8s.io/
-:pulumi-site-url: https://pulumi.com
+:postgresql-url: https://www.postgresql.org/
+:beautiful-soup-4-url: https://beautiful-soup-4.readthedocs.io/
 :clusterapi-url: https://cluster-api.sigs.k8s.io/
 
 * *VIM All The Things!!*
@@ -81,12 +81,14 @@ Daniel
 * link:{docker-url}[Docker]
 * link:{selenium-site-url}[Selenium]
 * link:{clusterapi-url}[Cluster API]
-* link:{kubevirt-site-url}[KubeVirt]
-* link:{cloudctl-gh-url}[CloudCtl Pod]
-* link:{siderolabs-gh-url}[Sidero Labs - Talos] / link:{microk8s-site-url}[Microk8s]
+* link:{apache-airflow-url}[Apache Airflow]
+* link:{flask-url}[Flask]
+* link:{beautiful-soup-4-url}[Postgresql] 
 * link:{pulumi-site-url}[Pulumi]
 * Python
 * Golang
-* Typescript
+* Bash
 
 image:{profile-stats-tile-url}[] +
+
+![printdaniel's Stats](https://github-readme-stats.vercel.app/api?username=printdaniel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
