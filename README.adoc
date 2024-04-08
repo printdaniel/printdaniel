@@ -66,31 +66,20 @@ Best regards,
 Daniel
 
 
-== Core Roles +
-* {pulumi-community-url}[Pulumi Developer Relations - Community Engineer]
-
-== Projects +
-* {uorframework-gh-url}[Emporous.io]
-* {containercraft-gh-url}[ContainerCraft.io]
-
-== Community +
-* {pulumiverse-blog-url}[Pulumiverse]
-* {kubevirt-community-url}[KubeVirt Community]
-
 == Favorite Technologies +
-:siderolabs-gh-url: https://www.siderolabs.com/
-:kubevirt-site-url: https://kubevirt.io
+:docker-url: https://www.docker.com/ 
+:selenium-site-url: https://www.selenium.dev/
 :rook-ceph-url: https://rook.github.io/docs/rook/latest/
 :cloudctl-gh-url: https://github.com/CloudCtl/cloudctl
-:kuma-site-url: https://kuma.io/
+:Django-site-url: https://www.djangoproject.com/ 
 :microk8s-site-url: https://microk8s.io/
 :pulumi-site-url: https://pulumi.com
 :clusterapi-url: https://cluster-api.sigs.k8s.io/
 
 * *VIM All The Things!!*
-* link:{kuma-site-url}[Kuma Mesh]
-* link:{uorframework-gh-url}[Emporous.io]
-* link:{rook-ceph-url}[Rook CEPH]
+* link:{django-site-url}[Django]
+* link:{docker-url}[Docker]
+* link:{selenium-site-url}[Selenium]
 * link:{clusterapi-url}[Cluster API]
 * link:{kubevirt-site-url}[KubeVirt]
 * link:{cloudctl-gh-url}[CloudCtl Pod]
