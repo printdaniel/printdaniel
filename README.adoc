@@ -44,14 +44,15 @@
 == About Me +
 
 ```
-usrbinkat@honeypot:/# /usr/bin/kat --help
-   ____                 _     _       _         _
-  / __ \ _   _ ___ _ __| |__ (_)_ __ | | ____ _| |_
- / / _` | | | / __| '__| '_ \| | '_ \| |/ / _` | __|
-| | (_| | |_| \__ \ |  | |_) | | | | |   < (_| | |_
- \ \__,_|\__,_|___/_|  |_.__/|_|_| |_|_|\_\__,_|\__|
-  \____/
+daniel@honeypot:/# /usr/bin/daniel --help
 
+             _               _             _       _ 
+            (_)      _      | |           (_)     | |
+ ____   ____ _ ____ | |_  _ | | ____ ____  _  ____| |
+|  _ \ / ___) |  _ \|  _)/ || |/ _  |  _ \| |/ _  ) |
+| | | | |   | | | | | |_( (_| ( ( | | | | | ( (/ /| |
+| ||_/|_|   |_|_| |_|\___)____|\_||_|_| |_|_|\____)_|
+|_|
 ```
 
 Hello! I am {fullname}, Senior Developer Advocate Community Engineer serving the link:{pulumi-community-url}[Pulumi Community].
