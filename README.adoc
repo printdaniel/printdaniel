@@ -84,7 +84,6 @@ Daniel
 * link:{apache-airflow-url}[Apache Airflow]
 * link:{flask-url}[Flask]
 * link:{beautiful-soup-4-url}[Postgresql] 
-* link:{pulumi-site-url}[Pulumi]
 * Python
 * Golang
 * Bash
